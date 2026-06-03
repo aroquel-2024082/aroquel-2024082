@@ -2,15 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d1f,100:00ff6a&height=220&section=header&text=Angel%20Fiorentin&fontSize=60&fontColor=00ff6a&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Cybersecurity&descSize=18&descColor=c9d1d9&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FF6A&center=true&vCenter=true&width=650&lines=Perito+T%C3%A9cnico+en+Inform%C3%A1tica+%F0%9F%8E%93;Full+Stack+Developer+%7C+Guatemala+%F0%9F%87%AC%F0%9F%87%B9;%F0%9F%9F%A2+Disponibilidad+Inmediata+%7C+Open+to+Work;Python+%7C+Java+%7C+JavaScript+%7C+C%23;Flask+%7C+Django+%7C+React+%7C+Spring+Boot+%7C+Vite)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-angelroquel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelroquel)
-[![Gmail](https://img.shields.io/badge/Gmail-fioreroquel%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fioreroquel@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aroquel--2024082-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aroquel-2024082)
-[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Work-Disponible_Inmediatamente-00C853?style=flat-square&labelColor=161b22)](https://github.com/aroquel-2024082)
-[![Visitas](https://komarev.com/ghpvc/?username=aroquel-2024082&color=00ff6a&style=flat-square&label=Visitas)](https://github.com/aroquel-2024082)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FF6A&center=true&vCenter=true&width=650&lines=Perito+T%C3%A9cnico+en+Inform%C3%A1tica+%F0%9F%8E%93;Full+Stack+Developer+%7C+Guatemala+%F0%9F%87%AC%F0%9F%87%B9;%F0%9F%9F%A2+Disponibilidad+Inmediata+%7C+Open+to+Work;Python+%7C+Java+%7C+JavaScript+%7C+C%23;Flask+%7C+Django+%7C+React+%7C+Spring+Boot)](https://git.io/typing-svg)
 
 </div>
 
@@ -45,6 +37,17 @@
 </tr>
 </table>
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-angelroquel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelroquel)
+[![Gmail](https://img.shields.io/badge/Gmail-fioreroquel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fioreroquel@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-aroquel--2024082-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aroquel-2024082)
+
+<br/>
+
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_OPEN_TO_WORK-Disponible_Inmediatamente-00C853?style=for-the-badge&labelColor=161b22)](https://github.com/aroquel-2024082)
+[![Visitas](https://komarev.com/ghpvc/?username=aroquel-2024082&color=00ff6a&style=for-the-badge&label=Visitas)](https://github.com/aroquel-2024082)
+
 </div>
 
 <br/>
@@ -66,7 +69,7 @@
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Flask REST](https://img.shields.io/badge/Flask_REST-000000?style=flat-square&logo=flask&logoColor=white)
-![Django REST](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=flat-square&logo=python&logoColor=white)
 
@@ -76,7 +79,7 @@
 
 ![PgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-**🛠️ Herramientas & DevOps**
+**🛠️ DevOps & Herramientas**
 
 [![DevOps](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,powershell,pnpm,githubactions&theme=dark&perline=15)](https://skillicons.dev)
 
@@ -88,8 +91,9 @@
 
 **📊 Productividad & Análisis**
 
-[![Office](https://skillicons.dev/icons?i=excel,word,powerbi&theme=dark&perline=15)](https://skillicons.dev)
+[![Office](https://skillicons.dev/icons?i=excel,word&theme=dark&perline=15)](https://skillicons.dev)
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
@@ -254,14 +258,6 @@
 ## 📊 &nbsp; GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aroquel-2024082&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e&ring_color=00ff6a&include_all_commits=true&rank_icon=github" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroquel-2024082&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&text_color=8b949e&langs_count=8&card_width=445" />
-
-<br/>
 
 <table width="100%" border="0">
 <tr>
