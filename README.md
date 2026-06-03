@@ -18,27 +18,72 @@
 
 ## 🧑‍💻 &nbsp; Sobre mí
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroquel-2024082&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&text_color=8b949e&langs_count=6" />
+<div align="center">
 
-### Hola, soy Angel 👋
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📍_UBICACIÓN-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/>
+<img src="https://img.shields.io/badge/GUATEMALA-00ff6a?style=for-the-badge&labelColor=161b22&color=00ff6a&logoColor=black" /><br/><br/>
+<sub>Guatemala City 🇬🇹</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎓_EDUCACIÓN-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/>
+<img src="https://img.shields.io/badge/KINAL·2026-0077B5?style=for-the-badge&labelColor=161b22&color=0077B5" /><br/><br/>
+<sub>Perito Técnico en Informática</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/⚡_ENFOQUE-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/>
+<img src="https://img.shields.io/badge/FULL--STACK+DATA-7B1FA2?style=for-the-badge&labelColor=161b22&color=7B1FA2" /><br/><br/>
+<sub>Full-Stack · Data · BI · Security</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/✅_DISPONIBILIDAD-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/>
+<img src="https://img.shields.io/badge/INMEDIATA-00C853?style=for-the-badge&labelColor=161b22&color=00C853" /><br/><br/>
+<sub>Disponible ahora ✅</sub>
+</td>
+</tr>
+</table>
 
-Desarrollador guatemalteco con enfoque en **Full Stack**, análisis de datos y ciberseguridad. Me mueve construir cosas que realmente funcionen — código limpio, arquitecturas sólidas y soluciones que escalan.
-
-Actualmente construyendo con **Python · Java · React · FastAPI** y explorando el ecosistema de **IA y Agentes Inteligentes**.
+</div>
 
 <br/>
 
-📍 &nbsp; Guatemala City &nbsp;·&nbsp; 🎓 &nbsp; Perito Técnico en Informática · Kinal  
-📬 &nbsp; fioreroquel@gmail.com &nbsp;·&nbsp; 🟢 &nbsp; **Open to Work · Open to Collaborate**
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+```python
+class AngelFiorentin:
 
+  nombre    = "Angel Emmanuel
+               Fiorentin Roquel Acuta"
+  ubicacion = "Guatemala City 🇬🇹"
+  educacion = "Perito Técnico · Kinal"
+  estado    = "🟢 Open to Work"
+  contacto  = "fioreroquel@gmail.com"
+  github    = "aroquel-2024082"
 ```
-⚡ Full Stack Development    📊 Data Analysis & Power BI
-🔐 Cybersecurity & Hacking   🤖 AI & Agentes Inteligentes
+
+</td>
+<td width="50%" valign="top">
+
+```python
+  intereses = [
+    "⚡ Full Stack Development",
+    "📊 Data Analysis & Power BI",
+    "🔐 Cybersecurity & Hacking",
+    "🤖 AI & Agentes Inteligentes",
+    "📈 Marketing Digital con IA",
+  ]
+  meta = "Código limpio · Impacto real"
 ```
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
+
+> 💡 *Desarrollador guatemalteco apasionado por construir soluciones reales. Siempre aprendiendo, siempre construyendo.*
 
 ---
 
@@ -46,19 +91,19 @@ Actualmente construyendo con **Python · Java · React · FastAPI** y explorando
 
 **Lenguajes**
 
-[![Lenguajes](https://skillicons.dev/icons?i=python,java,javascript,cs,html,css&theme=dark&perline=10)](https://skillicons.dev)
+[![Lenguajes](https://skillicons.dev/icons?i=python,java,javascript,cs,html,css&theme=dark&perline=15)](https://skillicons.dev)
 
 **Frameworks & Librerías**
 
-[![Frameworks](https://skillicons.dev/icons?i=flask,django,fastapi,spring,dotnet,nodejs,react,angular,vite,bootstrap&theme=dark&perline=10)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=flask,django,fastapi,spring,dotnet,nodejs,react,angular,vite,bootstrap&theme=dark&perline=15)](https://skillicons.dev)
 
 **Bases de Datos**
 
-[![Bases de datos](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark&perline=10)](https://skillicons.dev)
+[![DBs](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark&perline=15)](https://skillicons.dev)
 
 **DevOps & Herramientas**
 
-[![DevOps](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,powershell&theme=dark&perline=10)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,powershell&theme=dark&perline=15)](https://skillicons.dev)
 
 ---
 
@@ -70,18 +115,18 @@ Actualmente construyendo con **Python · Java · React · FastAPI** y explorando
 
 ### ☕ &nbsp; [CaféMG](https://github.com/aroquel-2024082/CafeMG)
 
-> Sistema web completo para gestión de cafetería guatemalteca. Menú digital, carrito de compras y panel de administración con interfaz intuitiva.
+> Sistema web completo para gestión de cafetería guatemalteca. Menú digital, carrito de compras y panel de administración.
 
-[![HTML5](https://skillicons.dev/icons?i=html,css,javascript&theme=dark&perline=6)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=html,css,javascript&theme=dark&perline=6)](https://skillicons.dev)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧩 &nbsp; [ProyectoJavaScript](https://github.com/aroquel-2024082/ProyectoJavaScript)
 
-> Rompecabezas interactivo en JavaScript vanilla. Drag & drop, validación de piezas y cronómetro integrado — lógica pura sin frameworks.
+> Rompecabezas interactivo en JS vanilla. Drag & drop, validación de piezas y cronómetro — lógica pura sin frameworks.
 
-[![JS](https://skillicons.dev/icons?i=javascript,html,css&theme=dark&perline=6)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=javascript,html,css&theme=dark&perline=6)](https://skillicons.dev)
 
 </td>
 </tr>
@@ -90,18 +135,18 @@ Actualmente construyendo con **Python · Java · React · FastAPI** y explorando
 
 ### 🏢 &nbsp; [JavaEEIN5BM](https://github.com/aroquel-2024082/JavaEEIN5BM)
 
-> Proyecto empresarial con Java EE. Arquitectura en capas, manejo de entidades y lógica de negocio robusta orientada a sistemas corporativos reales.
+> Proyecto empresarial con Java EE. Arquitectura en capas, manejo de entidades y lógica de negocio robusta.
 
-[![Java](https://skillicons.dev/icons?i=java,mysql&theme=dark&perline=6)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=java,mysql&theme=dark&perline=6)](https://skillicons.dev)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🖥️ &nbsp; [IN5BM](https://github.com/aroquel-2024082/IN5BM)
 
-> Colección de proyectos prácticos de Informática 5° — estructuras de datos, algoritmos y programación orientada a objetos en Java.
+> Proyectos prácticos de Informática 5° — estructuras de datos, algoritmos y OOP en Java.
 
-[![Java](https://skillicons.dev/icons?i=java&theme=dark&perline=6)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=java&theme=dark&perline=6)](https://skillicons.dev)
 
 </td>
 </tr>
@@ -118,23 +163,23 @@ Actualmente construyendo con **Python · Java · React · FastAPI** y explorando
 
 ### 📚 &nbsp; [libro](https://github.com/aroquel-2024082/libro)
 
-> Aplicación de gestión y catálogo de libros. CRUD completo con interfaz limpia para registrar, buscar y administrar colecciones bibliográficas.
+> Gestión y catálogo de libros. CRUD completo para registrar, buscar y administrar colecciones bibliográficas.
 
-[![Python](https://skillicons.dev/icons?i=python&theme=dark&perline=6)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=python&theme=dark&perline=6)](https://skillicons.dev)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔧 &nbsp; [TicsEjercicio](https://github.com/aroquel-2024082/TicsEjercicio)
 
-> Ejercicios y prácticas de Tecnologías de Información y Comunicación. Fundamentos aplicados de programación y lógica computacional.
+> Ejercicios y prácticas de TICs. Fundamentos aplicados de programación y lógica computacional.
 
-[![Python](https://skillicons.dev/icons?i=python&theme=dark&perline=6)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=python&theme=dark&perline=6)](https://skillicons.dev)
 
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2" align="center">
+<td colspan="2" align="center">
 
 🔎 &nbsp; *Explora los [21 repositorios públicos →](https://github.com/aroquel-2024082?tab=repositories)*
 
@@ -223,13 +268,33 @@ Actualmente construyendo con **Python · Java · React · FastAPI** y explorando
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=aroquel-2024082&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e&ring_color=00ff6a&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroquel-2024082&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&text_color=8b949e&langs_count=8&card_width=445" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aroquel-2024082&theme=github_dark" />
+
+<br/>
+
 <table width="100%" border="0">
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=aroquel-2024082&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e&ring_color=00ff6a&include_all_commits=true&rank_icon=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aroquel-2024082&theme=github_dark" />
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aroquel-2024082&theme=dark&hide_border=true&background=0d1117&ring=00ff6a&fire=00ff6a&currStreakLabel=00ff6a&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aroquel-2024082&theme=github_dark" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aroquel-2024082&theme=github_dark" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aroquel-2024082&theme=github_dark&utcOffset=-6" />
 </td>
 </tr>
 </table>
