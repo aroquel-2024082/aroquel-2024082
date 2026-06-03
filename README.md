@@ -6,20 +6,11 @@
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="6">
-<tr>
-<td><a href="https://www.linkedin.com/in/angelroquel"><img src="https://img.shields.io/badge/LinkedIn-angelroquel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a></td>
-<td><a href="mailto:fioreroquel@gmail.com"><img src="https://img.shields.io/badge/Gmail-fioreroquel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
-<td><a href="https://github.com/aroquel-2024082"><img src="https://img.shields.io/badge/GitHub-aroquel--2024082-238636?style=for-the-badge&logo=github&logoColor=white"/></a></td>
-</tr>
-<tr>
-<td colspan="3" align="center">
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Disponible%20Inmediatamente-00C853?style=for-the-badge&labelColor=161b22"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=aroquel-2024082&color=00ff6a&style=for-the-badge&label=Visitas"/>
-</td>
-</tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-angelroquel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelroquel)
+[![Gmail](https://img.shields.io/badge/Gmail-fioreroquel%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fioreroquel@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-aroquel--2024082-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aroquel-2024082)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Work-Disponible_Inmediatamente-00C853?style=flat-square&labelColor=161b22)](https://github.com/aroquel-2024082)
+[![Visitas](https://komarev.com/ghpvc/?username=aroquel-2024082&color=00ff6a&style=flat-square&label=Visitas)](https://github.com/aroquel-2024082)
 
 </div>
 
@@ -33,7 +24,7 @@
 <tr>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/📍_UBICACIÓN-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/>
-<img src="https://img.shields.io/badge/GUATEMALA-00ff6a?style=for-the-badge&labelColor=161b22&color=00ff6a&logoColor=black" /><br/><br/>
+<img src="https://img.shields.io/badge/GUATEMALA-00ff6a?style=for-the-badge&labelColor=161b22&color=00ff6a" /><br/><br/>
 <sub>Guatemala City 🇬🇹</sub>
 </td>
 <td align="center" width="25%">
@@ -64,37 +55,42 @@
 
 ## 🛠️ &nbsp; Stack Tecnológico
 
-**Lenguajes**
+**💻 Lenguajes**
 
-[![Lenguajes](https://skillicons.dev/icons?i=python,java,javascript,cs,html,css&theme=dark&perline=15)](https://skillicons.dev)
+[![Lenguajes](https://skillicons.dev/icons?i=python,javascript,java,cs,html,css&theme=dark&perline=15)](https://skillicons.dev)
 
-**Frameworks & Librerías**
+**⚙️ Frameworks & Librerías**
 
-[![Frameworks](https://skillicons.dev/icons?i=flask,django,fastapi,spring,dotnet,nodejs,react,angular,vite,bootstrap&theme=dark&perline=15)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=flask,django,fastapi,spring,dotnet,nodejs,react,angular,bootstrap&theme=dark&perline=15)](https://skillicons.dev)
 
-**Bases de Datos**
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Flask REST](https://img.shields.io/badge/Flask_REST-000000?style=flat-square&logo=flask&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=flat-square&logo=python&logoColor=white)
 
-[![DBs](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark&perline=15)](https://skillicons.dev)
+**🗄️ Bases de Datos**
 
-**DevOps & Herramientas**
+[![DBs](https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark&perline=15)](https://skillicons.dev)
+
+![PgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**🛠️ Herramientas & DevOps**
 
 [![DevOps](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,powershell,pnpm,githubactions&theme=dark&perline=15)](https://skillicons.dev)
 
-**Productividad & Análisis**
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-6C757D?style=flat-square&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**📊 Productividad & Análisis**
 
 [![Office](https://skillicons.dev/icons?i=excel,word,powerbi&theme=dark&perline=15)](https://skillicons.dev)
-&nbsp;
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![PgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-6C757D?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
