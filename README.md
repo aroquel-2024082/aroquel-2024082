@@ -18,112 +18,47 @@
 
 ## 🧑‍💻 &nbsp; Sobre mí
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroquel-2024082&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&text_color=8b949e&langs_count=6" />
 
-```python
-class AngelFiorentin:
+### Hola, soy Angel 👋
 
-  nombre    = "Angel Emmanuel
-               Fiorentin Roquel Acuta"
+Desarrollador guatemalteco con enfoque en **Full Stack**, análisis de datos y ciberseguridad. Me mueve construir cosas que realmente funcionen — código limpio, arquitecturas sólidas y soluciones que escalan.
 
-  ubicacion = "Guatemala City 🇬🇹"
+Actualmente construyendo con **Python · Java · React · FastAPI** y explorando el ecosistema de **IA y Agentes Inteligentes**.
 
-  educacion = "Perito Técnico en
-               Informática · Kinal"
+<br/>
 
-  estado    = "🟢 Open to Work"
+📍 &nbsp; Guatemala City &nbsp;·&nbsp; 🎓 &nbsp; Perito Técnico en Informática · Kinal  
+📬 &nbsp; fioreroquel@gmail.com &nbsp;·&nbsp; 🟢 &nbsp; **Open to Work · Open to Collaborate**
 
-  contacto  = "fioreroquel@gmail.com"
+<br/>
 
-  github    = "aroquel-2024082"
+```
+⚡ Full Stack Development    📊 Data Analysis & Power BI
+🔐 Cybersecurity & Hacking   🤖 AI & Agentes Inteligentes
 ```
 
-</td>
-<td width="50%" valign="top">
-
-```python
-  intereses = [
-    "⚡ Full Stack Development",
-    "📊 Data Analysis & Power BI",
-    "🔐 Cybersecurity & Hacking",
-    "🤖 AI & Agentes Inteligentes",
-    "📈 Marketing Digital con IA",
-  ]
-
-  actualmente = (
-    "Construyendo soluciones reales"
-    " con Python, Java, React"
-    " y FastAPI"
-  )
-
-  meta = "Código limpio · Impacto real"
-```
-
-</td>
-</tr>
-</table>
-
-> 💡 *Desarrollador apasionado por resolver problemas reales con código elegante. Siempre aprendiendo, siempre construyendo.*
+<br clear="right"/>
 
 ---
 
 ## 🛠️ &nbsp; Stack Tecnológico
 
-<div align="center">
-
-**Bases de Datos**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=for-the-badge&logo=python&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logo=python&logoColor=white)
-
 **Lenguajes**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![Lenguajes](https://skillicons.dev/icons?i=python,java,javascript,cs,html,css&theme=dark&perline=10)](https://skillicons.dev)
 
 **Frameworks & Librerías**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PySide](https://img.shields.io/badge/PySide-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+[![Frameworks](https://skillicons.dev/icons?i=flask,django,fastapi,spring,dotnet,nodejs,react,angular,vite,bootstrap&theme=dark&perline=10)](https://skillicons.dev)
+
+**Bases de Datos**
+
+[![Bases de datos](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark&perline=10)](https://skillicons.dev)
 
 **DevOps & Herramientas**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![PNPM](https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-30363d?style=for-the-badge&logo=buffer&logoColor=white)
-
-</div>
+[![DevOps](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,powershell&theme=dark&perline=10)](https://skillicons.dev)
 
 ---
 
@@ -137,9 +72,7 @@ class AngelFiorentin:
 
 > Sistema web completo para gestión de cafetería guatemalteca. Menú digital, carrito de compras y panel de administración con interfaz intuitiva.
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+[![HTML5](https://skillicons.dev/icons?i=html,css,javascript&theme=dark&perline=6)](https://skillicons.dev)
 
 </td>
 <td width="50%" valign="top">
@@ -148,9 +81,7 @@ class AngelFiorentin:
 
 > Rompecabezas interactivo en JavaScript vanilla. Drag & drop, validación de piezas y cronómetro integrado — lógica pura sin frameworks.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![JS](https://skillicons.dev/icons?i=javascript,html,css&theme=dark&perline=6)](https://skillicons.dev)
 
 </td>
 </tr>
@@ -161,9 +92,7 @@ class AngelFiorentin:
 
 > Proyecto empresarial con Java EE. Arquitectura en capas, manejo de entidades y lógica de negocio robusta orientada a sistemas corporativos reales.
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Java EE](https://img.shields.io/badge/-Java_EE-007396?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![Java](https://skillicons.dev/icons?i=java,mysql&theme=dark&perline=6)](https://skillicons.dev)
 
 </td>
 <td width="50%" valign="top">
@@ -172,8 +101,7 @@ class AngelFiorentin:
 
 > Colección de proyectos prácticos de Informática 5° — estructuras de datos, algoritmos y programación orientada a objetos en Java.
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![OOP](https://img.shields.io/badge/-OOP-007396?style=flat-square&logo=openjdk&logoColor=white)
+[![Java](https://skillicons.dev/icons?i=java&theme=dark&perline=6)](https://skillicons.dev)
 
 </td>
 </tr>
@@ -192,7 +120,7 @@ class AngelFiorentin:
 
 > Aplicación de gestión y catálogo de libros. CRUD completo con interfaz limpia para registrar, buscar y administrar colecciones bibliográficas.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark&perline=6)](https://skillicons.dev)
 
 </td>
 <td width="50%" valign="top">
@@ -201,7 +129,7 @@ class AngelFiorentin:
 
 > Ejercicios y prácticas de Tecnologías de Información y Comunicación. Fundamentos aplicados de programación y lógica computacional.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark&perline=6)](https://skillicons.dev)
 
 </td>
 </tr>
@@ -273,7 +201,7 @@ class AngelFiorentin:
 </td>
 <td width="33%" align="center" valign="top">
 <a href="https://www.credly.com/badges/48eb2441-b66a-4d2b-9311-8e3d75d4ef58/public_url" target="_blank">
-<img src="https://raw.githubusercontent.com/aroquel-2024082/aroquel-2024082/main/certs/Cisco.png" width="220" style="border-radius:12px; border: 2px solid #1BA0D7;" alt="Cisco Cybersecurity Badge"/>
+<img src="https://raw.githubusercontent.com/aroquel-2024082/aroquel-2024082/main/certs/Cisco.png" width="220" style="border-radius:12px; border: 2px solid #1BA0D7;" alt="Cisco Badge"/>
 </a>
 
 **🛡️ Introduction to Cybersecurity**
@@ -295,21 +223,20 @@ class AngelFiorentin:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aroquel-2024082&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e&ring_color=00ff6a&include_all_commits=true"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroquel-2024082&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&text_color=8b949e&langs_count=8"/>
+<table width="100%" border="0">
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=aroquel-2024082&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e&ring_color=00ff6a&include_all_commits=true&rank_icon=github" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aroquel-2024082&theme=dark&hide_border=true&background=0d1117&ring=00ff6a&fire=00ff6a&currStreakLabel=00ff6a&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d" />
+</td>
+</tr>
+</table>
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aroquel-2024082&theme=dark&hide_border=true&background=0d1117&ring=00ff6a&fire=00ff6a&currStreakLabel=00ff6a&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aroquel-2024082&bg_color=0d1117&color=00ff6a&line=00ff6a&point=ffffff&area=true&hide_border=true&area_color=0a3d1f"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aroquel-2024082&bg_color=0d1117&color=00ff6a&line=00ff6a&point=ffffff&area=true&hide_border=true&area_color=0a3d1f&custom_title=Actividad+de+Contribuciones" />
 
 </div>
 
