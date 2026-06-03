@@ -6,11 +6,20 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-angelroquel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelroquel)
-[![Gmail](https://img.shields.io/badge/Gmail-fioreroquel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fioreroquel@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aroquel--2024082-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aroquel-2024082)
-[![Status](https://img.shields.io/badge/%F0%9F%9F%A2-Disponible_Inmediatamente-00ff6a?style=for-the-badge&labelColor=161b22)](https://github.com/aroquel-2024082)
-[![Profile Views](https://komarev.com/ghpvc/?username=aroquel-2024082&color=00ff6a&style=for-the-badge&label=%F0%9F%91%81%EF%B8%8F+Visitas)](https://github.com/aroquel-2024082)
+<table border="0" cellspacing="0" cellpadding="6">
+<tr>
+<td><a href="https://www.linkedin.com/in/angelroquel"><img src="https://img.shields.io/badge/LinkedIn-angelroquel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a></td>
+<td><a href="mailto:fioreroquel@gmail.com"><img src="https://img.shields.io/badge/Gmail-fioreroquel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
+<td><a href="https://github.com/aroquel-2024082"><img src="https://img.shields.io/badge/GitHub-aroquel--2024082-238636?style=for-the-badge&logo=github&logoColor=white"/></a></td>
+</tr>
+<tr>
+<td colspan="3" align="center">
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Disponible%20Inmediatamente-00C853?style=for-the-badge&labelColor=161b22"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=aroquel-2024082&color=00ff6a&style=for-the-badge&label=Visitas"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -49,40 +58,6 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-```python
-class AngelFiorentin:
-
-  nombre    = "Angel Emmanuel
-               Fiorentin Roquel Acuta"
-  ubicacion = "Guatemala City 🇬🇹"
-  educacion = "Perito Técnico · Kinal"
-  estado    = "🟢 Open to Work"
-  contacto  = "fioreroquel@gmail.com"
-  github    = "aroquel-2024082"
-```
-
-</td>
-<td width="50%" valign="top">
-
-```python
-  intereses = [
-    "⚡ Full Stack Development",
-    "📊 Data Analysis & Power BI",
-    "🔐 Cybersecurity & Hacking",
-    "🤖 AI & Agentes Inteligentes",
-    "📈 Marketing Digital con IA",
-  ]
-  meta = "Código limpio · Impacto real"
-```
-
-</td>
-</tr>
-</table>
-
 > 💡 *Desarrollador guatemalteco apasionado por construir soluciones reales. Siempre aprendiendo, siempre construyendo.*
 
 ---
@@ -103,32 +78,23 @@ class AngelFiorentin:
 
 **DevOps & Herramientas**
 
-[![DevOps](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,powershell,pnpm&theme=dark&perline=15)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,powershell,pnpm,githubactions&theme=dark&perline=15)](https://skillicons.dev)
 
-**Herramientas Office & Productividad**
+**Productividad & Análisis**
 
-[![Office](https://skillicons.dev/icons?i=excel,word&theme=dark&perline=15)](https://skillicons.dev)
+[![Office](https://skillicons.dev/icons?i=excel,word,powerbi&theme=dark&perline=15)](https://skillicons.dev)
 &nbsp;
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![PgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Librerías Python adicionales**
-
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask REST](https://img.shields.io/badge/Flask_REST-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Metodologías & Prácticas**
-
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![SDLC](https://img.shields.io/badge/SDLC-6C757D?style=for-the-badge&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
