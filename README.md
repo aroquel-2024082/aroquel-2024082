@@ -8,8 +8,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-angelroquel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelroquel)
 [![Gmail](https://img.shields.io/badge/Gmail-fioreroquel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fioreroquel@gmail.com)
-[![Status](https://img.shields.io/badge/🟢-Disponible_Inmediatamente-00ff6a?style=for-the-badge&labelColor=161b22)](https://github.com/aroquel-2024082)
-[![Profile Views](https://komarev.com/ghpvc/?username=aroquel-2024082&color=00ff6a&style=for-the-badge&label=👁️+Visitas)](https://github.com/aroquel-2024082)
+[![GitHub](https://img.shields.io/badge/GitHub-aroquel--2024082-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aroquel-2024082)
+[![Status](https://img.shields.io/badge/%F0%9F%9F%A2-Disponible_Inmediatamente-00ff6a?style=for-the-badge&labelColor=161b22)](https://github.com/aroquel-2024082)
+[![Profile Views](https://komarev.com/ghpvc/?username=aroquel-2024082&color=00ff6a&style=for-the-badge&label=%F0%9F%91%81%EF%B8%8F+Visitas)](https://github.com/aroquel-2024082)
 
 </div>
 
@@ -17,9 +18,9 @@
 
 ## 🧑‍💻 &nbsp; Sobre mí
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ```python
 class AngelFiorentin:
@@ -35,10 +36,12 @@ class AngelFiorentin:
   estado    = "🟢 Open to Work"
 
   contacto  = "fioreroquel@gmail.com"
+
+  github    = "aroquel-2024082"
 ```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ```python
   intereses = [
@@ -49,14 +52,20 @@ class AngelFiorentin:
     "📈 Marketing Digital con IA",
   ]
 
-  actualmente = "Construyendo
-    soluciones reales con Python,
-    Java, React y FastAPI"
+  actualmente = (
+    "Construyendo soluciones reales"
+    " con Python, Java, React"
+    " y FastAPI"
+  )
+
+  meta = "Código limpio · Impacto real"
 ```
 
 </td>
 </tr>
 </table>
+
+> 💡 *Desarrollador apasionado por resolver problemas reales con código elegante. Siempre aprendiendo, siempre construyendo.*
 
 ---
 
@@ -129,71 +138,149 @@ class AngelFiorentin:
 
 ---
 
-## 🏆 &nbsp; Certificaciones
+## 🚀 &nbsp; Proyectos Destacados
 
 <div align="center">
 
-<!-- POWER BI -->
-<a href="https://raw.githubusercontent.com/aroquel-2024082/aroquel-2024082/main/certs/ECOCredGT.pdf" target="_blank">
-<img src="https://img.shields.io/badge/📊_Estrategias_de_Negocios_con_Power_BI-Ver_Certificado-F2C811?style=for-the-badge&labelColor=161b22&logo=powerbi" />
-</a>
-<br/><sub>🇪🇺 Erasmus+ ECOCredGT · Fundación Kinal &nbsp;|&nbsp; 30/05/2026 &nbsp;|&nbsp; 20 horas</sub>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<br/><br/>
+### ☕ [CaféMG](https://github.com/aroquel-2024082/CafeMG)
+> Sistema web completo para la gestión de una cafetería guatemalteca. Menú digital, carrito de compras y panel de administración con interfaz intuitiva.
 
-<!-- DESARROLLO CON IA -->
-<a href="https://certificados.thebigschool.com/wp-content/uploads/certs/MCIB/Certificado_Fiore_Birgolini.pdf" target="_blank">
-<img src="https://img.shields.io/badge/🤖_Iniciación_al_Desarrollo_con_IA-Ver_Certificado-00C853?style=for-the-badge&labelColor=161b22&logo=openai" />
-</a>
-<br/><sub>BIG School · Brais Moure &nbsp;|&nbsp; 26/03/2026 &nbsp;|&nbsp; 6 horas</sub>
+[![CaféMG](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=CafeMG&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e)](https://github.com/aroquel-2024082/CafeMG)
 
-<br/><br/>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-<!-- CIBERSEGURIDAD -->
-<a href="https://certificados.thebigschool.com/wp-content/uploads/certs/MCIB/Certificado-Angel-Roquel-nrvjvhzf.pdf" target="_blank">
-<img src="https://img.shields.io/badge/🔐_Ciberseguridad_y_Hacking_Ético-Ver_Certificado-E53935?style=for-the-badge&labelColor=161b22&logo=kalilinux" />
-</a>
-<br/><sub>BIG School · Mario Álvarez &nbsp;|&nbsp; 03/06/2026 &nbsp;|&nbsp; 6 horas</sub>
+</td>
+<td width="50%" valign="top">
 
-<br/><br/>
+### 🧩 [ProyectoJavaScript](https://github.com/aroquel-2024082/ProyectoJavaScript)
+> Rompecabezas interactivo construido en JavaScript vanilla. Drag & drop, validación de piezas y cronómetro integrado — lógica pura sin frameworks.
 
-<!-- IA AGENTES -->
-<a href="https://certificados.thebigschool.com/wp-content/uploads/certs/MCIB/Certificado-Angel-Roquel-ey0nrcni.pdf" target="_blank">
-<img src="https://img.shields.io/badge/🧠_Curso_de_IA._De_0_a_Agentes-Ver_Certificado-7B1FA2?style=for-the-badge&labelColor=161b22&logo=openai" />
-</a>
-<br/><sub>BIG School · Jon Hernández &nbsp;|&nbsp; 03/06/2026 &nbsp;|&nbsp; 6 horas</sub>
+[![ProyectoJavaScript](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=ProyectoJavaScript&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e)](https://github.com/aroquel-2024082/ProyectoJavaScript)
 
-<br/><br/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<!-- MARKETING DIGITAL CON IA -->
-<a href="https://certificados.thebigschool.com/wp-content/uploads/certs/MCIB/Certificado-Angel-Roquel-k1gb7bj5.pdf" target="_blank">
-<img src="https://img.shields.io/badge/📈_Marketing_Digital_con_IA-Ver_Certificado-1565C0?style=for-the-badge&labelColor=161b22&logo=googleads" />
-</a>
-<br/><sub>BIGSEO · BIG School · Paula González &nbsp;|&nbsp; 03/06/2026 &nbsp;|&nbsp; 6 horas</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<br/><br/>
+### ☕ [JavaEEIN5BM](https://github.com/aroquel-2024082/JavaEEIN5BM)
+> Proyecto empresarial con Java EE. Arquitectura en capas, manejo de entidades y lógica de negocio robusta orientada a sistemas corporativos reales.
 
-<!-- CISCO INTRODUCTION TO CYBERSECURITY -->
-<a href="https://www.credly.com/badges/48eb2441-b66a-4d2b-9311-8e3d75d4ef58/public_url" target="_blank">
-<img src="https://img.shields.io/badge/🛡️_Introduction_to_Cybersecurity-Ver_Credencial_Cisco-1BA0D7?style=for-the-badge&labelColor=161b22&logo=cisco" />
-</a>
-<br/><sub>Cisco Networking Academy · Verified &nbsp;|&nbsp; 02/05/2026</sub>
+[![JavaEEIN5BM](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=JavaEEIN5BM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e)](https://github.com/aroquel-2024082/JavaEEIN5BM)
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Java EE](https://img.shields.io/badge/-Java_EE-007396?style=flat&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ [IN5BM](https://github.com/aroquel-2024082/IN5BM)
+> Colección de proyectos prácticos de Informática 5° — estructuras de datos, algoritmos y programación orientada a objetos aplicada en Java.
+
+[![IN5BM](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=IN5BM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e)](https://github.com/aroquel-2024082/IN5BM)
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/-OOP-007396?style=flat&logo=openjdk&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 &nbsp; Proyectos Destacados
+## 🏆 &nbsp; Certificaciones
 
 <div align="center">
 
-[![CaféMG](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=CafeMG&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e)](https://github.com/aroquel-2024082/CafeMG)
-&nbsp;
-[![ProyectoJavaScript](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=ProyectoJavaScript&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e)](https://github.com/aroquel-2024082/ProyectoJavaScript)
+<details>
+<summary><b>📊 Estrategias de Negocios con Power BI</b> &nbsp;·&nbsp; <i>EU Erasmus+ ECOCredGT · Fundación Kinal · 30/05/2026 · 20 hrs</i></summary>
+<br/>
 
-[![JavaEEIN5BM](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=JavaEEIN5BM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e)](https://github.com/aroquel-2024082/JavaEEIN5BM)
-&nbsp;
-[![IN5BM](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=IN5BM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e)](https://github.com/aroquel-2024082/IN5BM)
+> Formación intensiva en análisis de datos empresariales, modelado con DAX, visualizaciones avanzadas y storytelling con datos para la toma de decisiones estratégicas.
+
+[![Ver Certificado](https://img.shields.io/badge/%F0%9F%8F%85_Ver_Certificado-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://raw.githubusercontent.com/aroquel-2024082/aroquel-2024082/main/certs/ECOCredGT.pdf)
+
+</details>
+
+---
+
+<details>
+<summary><b>🤖 Iniciación al Desarrollo con IA</b> &nbsp;·&nbsp; <i>GRAN Escuela · Brais Moure · 26/03/2026 · 6 hrs</i></summary>
+<br/>
+
+> Fundamentos del desarrollo con IA: integración de APIs, prompt engineering y construcción de herramientas potenciadas por modelos de lenguaje.
+
+[![Ver Certificado](https://img.shields.io/badge/%F0%9F%8F%85_Ver_Certificado-00C853?style=for-the-badge&logo=openai&logoColor=white)](https://certificados.thebigschool.com/wp-content/uploads/certs/MCIB/Certificado_Fiore_Birgolini.pdf)
+
+</details>
+
+---
+
+<details>
+<summary><b>🔐 Ciberseguridad y Hacking Ético</b> &nbsp;·&nbsp; <i>Escuela GRANDE · Mario Álvarez · 06/03/2026 · 6 hrs</i></summary>
+<br/>
+
+> Técnicas ofensivas y defensivas: reconocimiento, análisis de vulnerabilidades, explotación controlada y hardening de sistemas con enfoque práctico y ético.
+
+[![Ver Certificado](https://img.shields.io/badge/%F0%9F%8F%85_Ver_Certificado-E53935?style=for-the-badge&logo=kalilinux&logoColor=white)](https://certificados.thebigschool.com/wp-content/uploads/certs/MCIB/Certificado-Angel-Roquel-nrvjvhzf.pdf)
+
+</details>
+
+---
+
+<details>
+<summary><b>🧠 Curso de IA: De 0 a Agentes</b> &nbsp;·&nbsp; <i>Escuela GRANDE · Jon Hernández · 06/03/2026 · 6 hrs</i></summary>
+<br/>
+
+> Construcción de agentes inteligentes desde cero: LLMs, herramientas, memoria y flujos autónomos. Proyecto final: agente funcional con razonamiento propio.
+
+[![Ver Certificado](https://img.shields.io/badge/%F0%9F%8F%85_Ver_Certificado-7B1FA2?style=for-the-badge&logo=openai&logoColor=white)](https://certificados.thebigschool.com/wp-content/uploads/certs/MCIB/Certificado-Angel-Roquel-ey0nrcni.pdf)
+
+</details>
+
+---
+
+<details>
+<summary><b>📈 Marketing Digital con IA</b> &nbsp;·&nbsp; <i>BIGSEO · GRAN Escuela · Paula González · 06/03/2026 · 6 hrs</i></summary>
+<br/>
+
+> SEO avanzado, estrategias de contenido con IA, análisis de audiencias y campañas digitales con foco en resultados medibles y escalables.
+
+[![Ver Certificado](https://img.shields.io/badge/%F0%9F%8F%85_Ver_Certificado-1565C0?style=for-the-badge&logo=googleads&logoColor=white)](https://certificados.thebigschool.com/wp-content/uploads/certs/MCIB/Certificado-Angel-Roquel-k1gb7bj5.pdf)
+
+</details>
+
+---
+
+<details>
+<summary><b>🛡️ Introduction to Cybersecurity</b> &nbsp;·&nbsp; <i>Cisco Networking Academy · Verificado · 02/05/2026</i></summary>
+<br/>
+
+> Credencial oficial verificada por Cisco. Amenazas actuales, protección de redes, privacidad de datos y fundamentos de carreras en ciberseguridad.
+
+<a href="https://www.credly.com/badges/48eb2441-b66a-4d2b-9311-8e3d75d4ef58/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="140" alt="Cisco Introduction to Cybersecurity Badge"/>
+</a>
+
+<br/>
+
+[![Ver Insignia en Credly](https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_Ver_Insignia_Verificada_en_Credly-%E2%86%92-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/48eb2441-b66a-4d2b-9311-8e3d75d4ef58/public_url)
+
+*Cisco Networking Academy · Introduction to Cybersecurity · Verified*
+
+</details>
 
 </div>
 
