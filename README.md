@@ -20,10 +20,30 @@
 
 <div align="center">
 
-| 📍 &nbsp; UBICACIÓN | 🎓 &nbsp; EDUCACIÓN | ⚡ &nbsp; ENFOQUE | ✅ &nbsp; DISPONIBILIDAD |
-|:---:|:---:|:---:|:---:|
-| **Guatemala City 🇬🇹** | **Kinal · 2026** | **Full-Stack · Data · BI · Security** | **🟢 Inmediata** |
-| Guatemala City | Perito Técnico en Informática | Full-Stack · Data · BI · Security | Disponible ahora ✅ |
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📍_UBICACIÓN-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/>
+<img src="https://img.shields.io/badge/GUATEMALA-00ff6a?style=for-the-badge&labelColor=161b22&color=00ff6a&logoColor=black" /><br/><br/>
+<sub>Guatemala City 🇬🇹</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎓_EDUCACIÓN-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/>
+<img src="https://img.shields.io/badge/KINAL·2026-0077B5?style=for-the-badge&labelColor=161b22&color=0077B5" /><br/><br/>
+<sub>Perito Técnico en Informática</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/⚡_ENFOQUE-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/>
+<img src="https://img.shields.io/badge/FULL--STACK+DATA-7B1FA2?style=for-the-badge&labelColor=161b22&color=7B1FA2" /><br/><br/>
+<sub>Full-Stack · Data · BI · Security</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/✅_DISPONIBILIDAD-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/>
+<img src="https://img.shields.io/badge/INMEDIATA-00C853?style=for-the-badge&labelColor=161b22&color=00C853" /><br/><br/>
+<sub>Disponible ahora ✅</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -83,27 +103,32 @@ class AngelFiorentin:
 
 **DevOps & Herramientas**
 
-[![DevOps](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,powershell&theme=dark&perline=15)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,powershell,pnpm&theme=dark&perline=15)](https://skillicons.dev)
 
-**Herramientas adicionales & Metodologías**
+**Herramientas Office & Productividad**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-![PgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=flat-square&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=flat-square&logo=python&logoColor=black)
-![PySide](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-6C757D?style=flat-square&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask REST](https://img.shields.io/badge/Flask_REST-000000?style=flat-square&logo=flask&logoColor=white)
+[![Office](https://skillicons.dev/icons?i=excel,word&theme=dark&perline=15)](https://skillicons.dev)
+&nbsp;
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![PgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Librerías Python adicionales**
+
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask REST](https://img.shields.io/badge/Flask_REST-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Metodologías & Prácticas**
+
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-6C757D?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -268,15 +293,11 @@ class AngelFiorentin:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aroquel-2024082&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e&ring_color=00ff6a&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
+<img src="https://github-readme-stats.vercel.app/api?username=aroquel-2024082&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e&ring_color=00ff6a&include_all_commits=true&rank_icon=github" />
 
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroquel-2024082&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&text_color=8b949e&langs_count=8&card_width=445" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aroquel-2024082&theme=github_dark" />
 
 <br/>
 
