@@ -2,15 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d1f,100:00ff6a&height=220&section=header&text=Angel%20Fiorentin&fontSize=60&fontColor=00ff6a&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Cybersecurity&descSize=18&descColor=c9d1d9&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FF6A&center=true&vCenter=true&width=600&lines=Perito+T%C3%A9cnico+en+Inform%C3%A1tica+%F0%9F%8E%93;Full+Stack+Developer+%7C+Guatemala+%F0%9F%87%AC%F0%9F%87%B9;%F0%9F%9F%A2+Disponibilidad+Inmediata+%7C+Open+to+Work;Python+%7C+Java+%7C+JavaScript+%7C+C%23;Flask+%7C+Django+%7C+React+%7C+Spring+Boot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FF6A&center=true&vCenter=true&width=650&lines=Perito+T%C3%A9cnico+en+Inform%C3%A1tica+%F0%9F%8E%93;Full+Stack+Developer+%7C+Guatemala+%F0%9F%87%AC%F0%9F%87%B9;%F0%9F%9F%A2+Disponibilidad+Inmediata+%7C+Open+to+Work;Python+%7C+Java+%7C+JavaScript+%7C+C%23;Flask+%7C+Django+%7C+React+%7C+Spring+Boot+%7C+Vite)](https://git.io/typing-svg)
 
 <br/>
 
-![Status](https://img.shields.io/badge/🟢_Estado-Disponible_Inmediatamente-00ff6a?style=flat-square&labelColor=161b22&color=00ff6a)
-&nbsp;
-![Location](https://img.shields.io/badge/📍-Guatemala_City-161b22?style=flat-square&labelColor=161b22&color=30363d)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=aroquel-2024082&color=00ff6a&style=flat-square&label=👁️+Visitas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-angelroquel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelroquel)
+[![Gmail](https://img.shields.io/badge/Gmail-fioreroquel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fioreroquel@gmail.com)
+[![Status](https://img.shields.io/badge/🟢-Disponible_Inmediatamente-00ff6a?style=for-the-badge&labelColor=161b22)](https://github.com/aroquel-2024082)
+[![Profile Views](https://komarev.com/ghpvc/?username=aroquel-2024082&color=00ff6a&style=for-the-badge&label=👁️+Visitas)](https://github.com/aroquel-2024082)
 
 </div>
 
@@ -18,15 +17,46 @@
 
 ## 🧑‍💻 &nbsp; Sobre mí
 
+<table>
+<tr>
+<td width="50%">
+
 ```python
 class AngelFiorentin:
-    nombre     = "Angel Emmanuel Fiorentin Roquel Acuta"
-    ubicacion  = "Guatemala City, Guatemala 🇬🇹"
-    educacion  = "Perito Técnico en Informática · C.E.T.L. Kinal"
-    estado     = "🟢 Disponible inmediatamente"
-    intereses  = ["Full Stack Dev", "Data Analysis", "Cybersecurity", "AI Agents"]
-    contacto   = "Open to work & collaborate"
+
+  nombre    = "Angel Emmanuel
+               Fiorentin Roquel Acuta"
+
+  ubicacion = "Guatemala City 🇬🇹"
+
+  educacion = "Perito Técnico en
+               Informática · Kinal"
+
+  estado    = "🟢 Open to Work"
+
+  contacto  = "fioreroquel@gmail.com"
 ```
+
+</td>
+<td width="50%">
+
+```python
+  intereses = [
+    "⚡ Full Stack Development",
+    "📊 Data Analysis & Power BI",
+    "🔐 Cybersecurity & Hacking",
+    "🤖 AI & Agentes Inteligentes",
+    "📈 Marketing Digital con IA",
+  ]
+
+  actualmente = "Construyendo
+    soluciones reales con Python,
+    Java, React y FastAPI"
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -68,6 +98,7 @@ class AngelFiorentin:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PySide](https://img.shields.io/badge/PySide-41CD52?style=for-the-badge&logo=qt&logoColor=white)
@@ -102,14 +133,51 @@ class AngelFiorentin:
 
 <div align="center">
 
-> 💡 *Haz clic en cada certificado para ver la credencial original*
+<!-- POWER BI -->
+<a href="https://raw.githubusercontent.com/aroquel-2024082/aroquel-2024082/main/certs/ECOCredGT.pdf" target="_blank">
+<img src="https://img.shields.io/badge/📊_Estrategias_de_Negocios_con_Power_BI-Ver_Certificado-F2C811?style=for-the-badge&labelColor=161b22&logo=powerbi" />
+</a>
+<br/><sub>🇪🇺 Erasmus+ ECOCredGT · Fundación Kinal &nbsp;|&nbsp; 30/05/2026 &nbsp;|&nbsp; 20 horas</sub>
 
-| &nbsp; | Certificado | Institución | Fecha | Horas |
-|:---:|---|---|:---:|:---:|
-| 📊 | [**Estrategias de Negocios con Power BI**](https://api.badgr.io/public/assertions/vWUz5vbhQJGXkEblvJ6bFg?identity__email=angel.fiorentin%40kinal.edu.gt) | 🇪🇺 Erasmus+ ECOCredGT · Fundación Kinal | 30/05/2026 | 20 h |
-| 🤖 | [**Iniciación al Desarrollo con IA**](https://certificados.thebigschool.com/wp-content/uploads/certs/MCIB/Certificado_Fiore_Birgolini.pdf) | BIG School · Brais Moure | 26/03/2026 | 6 h |
-| 🔐 | [**Ciberseguridad y Hacking Ético**](https://certificados.thebigschool.com/wp-content/uploads/certs/MCIB/Certificado-Angel-Roquel-nrvjvhzf.pdf) | BIG School · Mario Álvarez | 03/06/2026 | 6 h |
-| 🧠 | [**Curso de IA. De 0 a Agentes**](https://certificados.thebigschool.com/wp-content/uploads/certs/MCIB/Certificado-Angel-Roquel-ey0nrcni.pdf) | BIG School · Jon Hernández | 03/06/2026 | 6 h |
+<br/><br/>
+
+<!-- DESARROLLO CON IA -->
+<a href="https://certificados.thebigschool.com/wp-content/uploads/certs/MCIB/Certificado_Fiore_Birgolini.pdf" target="_blank">
+<img src="https://img.shields.io/badge/🤖_Iniciación_al_Desarrollo_con_IA-Ver_Certificado-00C853?style=for-the-badge&labelColor=161b22&logo=openai" />
+</a>
+<br/><sub>BIG School · Brais Moure &nbsp;|&nbsp; 26/03/2026 &nbsp;|&nbsp; 6 horas</sub>
+
+<br/><br/>
+
+<!-- CIBERSEGURIDAD -->
+<a href="https://certificados.thebigschool.com/wp-content/uploads/certs/MCIB/Certificado-Angel-Roquel-nrvjvhzf.pdf" target="_blank">
+<img src="https://img.shields.io/badge/🔐_Ciberseguridad_y_Hacking_Ético-Ver_Certificado-E53935?style=for-the-badge&labelColor=161b22&logo=kalilinux" />
+</a>
+<br/><sub>BIG School · Mario Álvarez &nbsp;|&nbsp; 03/06/2026 &nbsp;|&nbsp; 6 horas</sub>
+
+<br/><br/>
+
+<!-- IA AGENTES -->
+<a href="https://certificados.thebigschool.com/wp-content/uploads/certs/MCIB/Certificado-Angel-Roquel-ey0nrcni.pdf" target="_blank">
+<img src="https://img.shields.io/badge/🧠_Curso_de_IA._De_0_a_Agentes-Ver_Certificado-7B1FA2?style=for-the-badge&labelColor=161b22&logo=openai" />
+</a>
+<br/><sub>BIG School · Jon Hernández &nbsp;|&nbsp; 03/06/2026 &nbsp;|&nbsp; 6 horas</sub>
+
+<br/><br/>
+
+<!-- MARKETING DIGITAL CON IA -->
+<a href="https://certificados.thebigschool.com/wp-content/uploads/certs/MCIB/Certificado-Angel-Roquel-k1gb7bj5.pdf" target="_blank">
+<img src="https://img.shields.io/badge/📈_Marketing_Digital_con_IA-Ver_Certificado-1565C0?style=for-the-badge&labelColor=161b22&logo=googleads" />
+</a>
+<br/><sub>BIGSEO · BIG School · Paula González &nbsp;|&nbsp; 03/06/2026 &nbsp;|&nbsp; 6 horas</sub>
+
+<br/><br/>
+
+<!-- CISCO INTRODUCTION TO CYBERSECURITY -->
+<a href="https://www.credly.com/badges/48eb2441-b66a-4d2b-9311-8e3d75d4ef58/public_url" target="_blank">
+<img src="https://img.shields.io/badge/🛡️_Introduction_to_Cybersecurity-Ver_Credencial_Cisco-1BA0D7?style=for-the-badge&labelColor=161b22&logo=cisco" />
+</a>
+<br/><sub>Cisco Networking Academy · Verified &nbsp;|&nbsp; 02/05/2026</sub>
 
 </div>
 
@@ -119,11 +187,13 @@ class AngelFiorentin:
 
 <div align="center">
 
-[![CaféMG](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=CafeMG&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e&border_color=30363d)](https://github.com/aroquel-2024082/CafeMG)
-[![ProyectoJavaScript](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=ProyectoJavaScript&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e&border_color=30363d)](https://github.com/aroquel-2024082/ProyectoJavaScript)
+[![CaféMG](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=CafeMG&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e)](https://github.com/aroquel-2024082/CafeMG)
+&nbsp;
+[![ProyectoJavaScript](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=ProyectoJavaScript&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e)](https://github.com/aroquel-2024082/ProyectoJavaScript)
 
-[![JavaEEIN5BM](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=JavaEEIN5BM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e&border_color=30363d)](https://github.com/aroquel-2024082/JavaEEIN5BM)
-[![IN5BM](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=IN5BM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e&border_color=30363d)](https://github.com/aroquel-2024082/IN5BM)
+[![JavaEEIN5BM](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=JavaEEIN5BM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e)](https://github.com/aroquel-2024082/JavaEEIN5BM)
+&nbsp;
+[![IN5BM](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=IN5BM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e)](https://github.com/aroquel-2024082/IN5BM)
 
 </div>
 
@@ -133,9 +203,9 @@ class AngelFiorentin:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aroquel-2024082&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e&ring_color=00ff6a" height="170"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aroquel-2024082&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e&ring_color=00ff6a&include_all_commits=true"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroquel-2024082&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&text_color=8b949e&langs_count=8" height="170"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroquel-2024082&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&text_color=8b949e&langs_count=8"/>
 
 </div>
 
@@ -153,8 +223,28 @@ class AngelFiorentin:
 
 ---
 
+## 🏅 &nbsp; Insignia Verificada
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/48eb2441-b66a-4d2b-9311-8e3d75d4ef58/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150" alt="Cisco Introduction to Cybersecurity Badge"/>
+</a>
+
+<br/>
+
+**[🛡️ Ver insignia verificada en Credly →](https://www.credly.com/badges/48eb2441-b66a-4d2b-9311-8e3d75d4ef58/public_url)**
+
+*Cisco Networking Academy · Introduction to Cybersecurity · Verified*
+
+</div>
+
+---
+
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff6a,50:0a3d1f,100:0d1117&height=120&section=footer&animation=fadeIn)
+
+*✨ Open to work · Open to collaborate · Guatemala 🇬🇹*
 
 </div>
