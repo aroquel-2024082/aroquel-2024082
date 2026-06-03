@@ -135,9 +135,7 @@ class AngelFiorentin:
 
 ### ☕ &nbsp; [CaféMG](https://github.com/aroquel-2024082/CafeMG)
 
-> Sistema web completo para la gestión de una cafetería guatemalteca. Menú digital, carrito de compras y panel de administración con interfaz intuitiva.
-
-[![CaféMG](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=CafeMG&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e)](https://github.com/aroquel-2024082/CafeMG)
+> Sistema web completo para gestión de cafetería guatemalteca. Menú digital, carrito de compras y panel de administración con interfaz intuitiva.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -150,8 +148,6 @@ class AngelFiorentin:
 
 > Rompecabezas interactivo en JavaScript vanilla. Drag & drop, validación de piezas y cronómetro integrado — lógica pura sin frameworks.
 
-[![ProyectoJavaScript](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=ProyectoJavaScript&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e)](https://github.com/aroquel-2024082/ProyectoJavaScript)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -161,11 +157,9 @@ class AngelFiorentin:
 <tr>
 <td width="50%" valign="top">
 
-### ☕ &nbsp; [JavaEEIN5BM](https://github.com/aroquel-2024082/JavaEEIN5BM)
+### 🏢 &nbsp; [JavaEEIN5BM](https://github.com/aroquel-2024082/JavaEEIN5BM)
 
 > Proyecto empresarial con Java EE. Arquitectura en capas, manejo de entidades y lógica de negocio robusta orientada a sistemas corporativos reales.
-
-[![JavaEEIN5BM](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=JavaEEIN5BM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e)](https://github.com/aroquel-2024082/JavaEEIN5BM)
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Java EE](https://img.shields.io/badge/-Java_EE-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -176,9 +170,7 @@ class AngelFiorentin:
 
 ### 🖥️ &nbsp; [IN5BM](https://github.com/aroquel-2024082/IN5BM)
 
-> Colección de proyectos prácticos de Informática 5° — estructuras de datos, algoritmos y OOP aplicada en Java.
-
-[![IN5BM](https://github-readme-stats.vercel.app/api/pin/?username=aroquel-2024082&repo=IN5BM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff6a&icon_color=00ff6a&text_color=8b949e)](https://github.com/aroquel-2024082/IN5BM)
+> Colección de proyectos prácticos de Informática 5° — estructuras de datos, algoritmos y programación orientada a objetos en Java.
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/-OOP-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -186,6 +178,43 @@ class AngelFiorentin:
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>📂 &nbsp; Ver más proyectos</b></summary>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📚 &nbsp; [libro](https://github.com/aroquel-2024082/libro)
+
+> Aplicación de gestión y catálogo de libros. CRUD completo con interfaz limpia para registrar, buscar y administrar colecciones bibliográficas.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 &nbsp; [TicsEjercicio](https://github.com/aroquel-2024082/TicsEjercicio)
+
+> Ejercicios y prácticas de Tecnologías de Información y Comunicación. Fundamentos aplicados de programación y lógica computacional.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2" align="center">
+
+🔎 &nbsp; *Explora los [21 repositorios públicos →](https://github.com/aroquel-2024082?tab=repositories)*
+
+</td>
+</tr>
+</table>
+
+</details>
 
 ---
 
