@@ -12,26 +12,26 @@
 
 <div align="center">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="92%" border="0" cellspacing="8" cellpadding="16" style="border-collapse:separate;">
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/📍_UBICACIÓN-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/>
-<img src="https://img.shields.io/badge/GUATEMALA-00ff6a?style=for-the-badge&labelColor=161b22&color=00ff6a" /><br/><br/>
+<td align="center" width="25%" style="background:#0d1117; border: 1.5px solid #00ff6a33; border-radius:12px;">
+<sub><b>📍 UBICACIÓN</b></sub><br/><br/>
+<img src="https://img.shields.io/badge/GUATEMALA-00ff6a?style=for-the-badge&labelColor=0a3d1f&color=00ff6a" /><br/><br/>
 <sub>Guatemala City 🇬🇹</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎓_EDUCACIÓN-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/>
-<img src="https://img.shields.io/badge/KINAL·2026-0077B5?style=for-the-badge&labelColor=161b22&color=0077B5" /><br/><br/>
+<td align="center" width="25%" style="background:#0d1117; border: 1.5px solid #0077B533; border-radius:12px;">
+<sub><b>🎓 EDUCACIÓN</b></sub><br/><br/>
+<img src="https://img.shields.io/badge/KINAL·2026-0077B5?style=for-the-badge&labelColor=003d6b&color=0077B5" /><br/><br/>
 <sub>Perito Técnico en Informática</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/⚡_ENFOQUE-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/>
-<img src="https://img.shields.io/badge/FULL--STACK+DATA-7B1FA2?style=for-the-badge&labelColor=161b22&color=7B1FA2" /><br/><br/>
+<td align="center" width="25%" style="background:#0d1117; border: 1.5px solid #7B1FA233; border-radius:12px;">
+<sub><b>⚡ ENFOQUE</b></sub><br/><br/>
+<img src="https://img.shields.io/badge/FULL--STACK+DATA-7B1FA2?style=for-the-badge&labelColor=3d0066&color=7B1FA2" /><br/><br/>
 <sub>Full-Stack · Data · BI · Security</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/✅_DISPONIBILIDAD-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/>
-<img src="https://img.shields.io/badge/INMEDIATA-00C853?style=for-the-badge&labelColor=161b22&color=00C853" /><br/><br/>
+<td align="center" width="25%" style="background:#0d1117; border: 1.5px solid #00C85333; border-radius:12px;">
+<sub><b>✅ DISPONIBILIDAD</b></sub><br/><br/>
+<img src="https://img.shields.io/badge/INMEDIATA-00C853?style=for-the-badge&labelColor=00401a&color=00C853" /><br/><br/>
 <sub>Disponible ahora ✅</sub>
 </td>
 </tr>
@@ -39,14 +39,32 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-angelroquel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelroquel)
-[![Gmail](https://img.shields.io/badge/Gmail-fioreroquel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fioreroquel@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aroquel--2024082-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aroquel-2024082)
-
-<br/>
-
-[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_OPEN_TO_WORK-Disponible_Inmediatamente-00C853?style=for-the-badge&labelColor=161b22)](https://github.com/aroquel-2024082)
-[![Visitas](https://komarev.com/ghpvc/?username=aroquel-2024082&color=00ff6a&style=for-the-badge&label=Visitas)](https://github.com/aroquel-2024082)
+<table border="0" cellspacing="6" cellpadding="0">
+<tr>
+<td>
+<a href="https://www.linkedin.com/in/angelroquel">
+<img src="https://img.shields.io/badge/LinkedIn-angelroquel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=003380"/>
+</a>
+</td>
+<td>
+<a href="mailto:fioreroquel@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-fioreroquel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8b0000"/>
+</a>
+</td>
+<td>
+<a href="https://github.com/aroquel-2024082">
+<img src="https://img.shields.io/badge/GitHub-aroquel--2024082-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center" style="padding-top:8px;">
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2_OPEN_TO_WORK-Disponible_Inmediatamente-00C853?style=for-the-badge&labelColor=161b22"/>
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=aroquel-2024082&color=00ff6a&style=for-the-badge&label=Visitas"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -91,9 +109,9 @@
 
 **📊 Productividad & Análisis**
 
-[![Office](https://skillicons.dev/icons?i=excel,word&theme=dark&perline=15)](https://skillicons.dev)
-
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
