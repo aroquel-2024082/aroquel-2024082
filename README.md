@@ -1,16 +1,16 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:051a0d,60:0a3d1f,100:00ff6a&height=260&section=header&text=Angel%20Fiorentin&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Cybersecurity&descSize=20&descColor=a8f5c2&descAlignY=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,40:1a0533,80:3d0066,100:7c3aed&height=280&section=header&text=Angel%20Fiorentin&fontSize=78&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Cybersecurity&descSize=20&descColor=c4b5fd&descAlignY=65&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=a8f5c2&center=true&vCenter=true&multiline=false&width=700&lines=Perito+T%C3%A9cnico+en+Inform%C3%A1tica+%7C+Fundaci%C3%B3n+Kinal+%F0%9F%8E%93;Full+Stack+Developer+%7C+Guatemala+City+%F0%9F%87%AC%F0%9F%87%B9;Construyendo+con+Python+%C2%B7+Java+%C2%B7+React+%C2%B7+FastAPI;%F0%9F%9F%A2+Open+to+Work+%C2%B7+Open+to+Collaborate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=c4b5fd&center=true&vCenter=true&width=720&lines=Perito+T%C3%A9cnico+en+Inform%C3%A1tica+%7C+Fundaci%C3%B3n+Kinal+%F0%9F%8E%93;Full+Stack+Developer+%7C+Guatemala+City+%F0%9F%87%AC%F0%9F%87%B9;Python+%C2%B7+Java+%C2%B7+React+%C2%B7+FastAPI+%C2%B7+Spring+Boot;%F0%9F%9F%A2+Open+to+Work+%C2%B7+Open+to+Collaborate)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://www.linkedin.com/in/angelroquel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:fioreroquel@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/aroquel-2024082"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-00C853?style=for-the-badge&labelColor=00401a" />
-<img src="https://komarev.com/ghpvc/?username=aroquel-2024082&color=00ff6a&style=for-the-badge&label=Profile+Views" />
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-7c3aed?style=for-the-badge&labelColor=3d0066" />
+<img src="https://komarev.com/ghpvc/?username=aroquel-2024082&color=7c3aed&style=for-the-badge&label=Profile+Views" />
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="60%" valign="top" style="padding-right:24px;">
+<td width="58%" valign="top">
 
 **Hola, soy Angel 👋**
 
@@ -41,7 +41,7 @@ Actualmente construyendo con **Python · Java · React · FastAPI** y explorando
 | 🐙 **GitHub** | [aroquel-2024082](https://github.com/aroquel-2024082) |
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
 ```python
 class AngelFiorentin:
@@ -249,10 +249,7 @@ class AngelFiorentin:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aroquel-2024082&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aroquel-2024082&theme=github_dark" width="100%" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aroquel-2024082&theme=github_dark" width="100%" />
 
 <br/><br/>
 
@@ -277,15 +274,18 @@ class AngelFiorentin:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aroquel-2024082&bg_color=0d1117&color=00ff6a&line=00ff6a&point=a8f5c2&area=true&hide_border=true&area_color=051a0d&custom_title=Actividad+de+Contribuciones" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aroquel-2024082&bg_color=0d1117&color=7c3aed&line=a855f7&point=c4b5fd&area=true&hide_border=true&area_color=1a0533&custom_title=Actividad+de+Contribuciones" width="100%" />
 
 <br/>
 
-<!-- SNAKE ANIMATION — necesitas activar el workflow en tu repo -->
+<!-- ════════════════════════════════════════════
+     SNAKE: requiere el workflow de GitHub Actions
+     Ver instrucciones abajo ↓
+════════════════════════════════════════════ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aroquel-2024082/aroquel-2024082/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aroquel-2024082/aroquel-2024082/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/aroquel-2024082/aroquel-2024082/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/aroquel-2024082/aroquel-2024082/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -312,7 +312,7 @@ class AngelFiorentin:
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff6a,40:0a3d1f,100:0d1117&height=140&section=footer&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:3d0066,100:0d1117&height=140&section=footer&animation=fadeIn)
 
 *✨ Open to work · Open to collaborate · Guatemala 🇬🇹*
 
